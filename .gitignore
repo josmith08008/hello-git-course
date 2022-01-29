@@ -1,0 +1,8 @@
+# Ignore Following Rules
+
+*.in
+*.out
+*.pyc
+
+
+
